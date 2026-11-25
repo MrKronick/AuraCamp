@@ -1,0 +1,9 @@
+name: AuraCamp
+version: '0.0.1'
+main: com.mrkronick.auracamp.AuraCamp
+api-version: '1.21'
+commands:
+  cp:
+    description: Main AuraCamp command
+    usage: /cp <reload|team>
+    aliases: [auracamp, camp]
